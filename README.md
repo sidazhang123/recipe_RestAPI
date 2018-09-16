@@ -1,5 +1,5 @@
 # recipe_RestAPI
-moved to apis_integrated branch in **recipe_SpringMVC**
+moved to apis_integrated branch under **recipe_SpringMVC**
 
 ![1](https://user-images.githubusercontent.com/31929318/38479036-19617c06-3c00-11e8-8a89-decc74952a6b.PNG)
 ![2](https://user-images.githubusercontent.com/31929318/38479037-19a094d6-3c00-11e8-8242-f830446f612e.PNG)
